@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>How to Front Bird</title>
+		<style>
+   			body {
+				text-align: center;
+				background: url("https://image.freepik.com/free-vector/blurred-sunrise-background_1107-116.jpg");
+     				background-size: cover;
+     				background-position: center;
+     				color: white;
+     				font-family: helvetica;
+    			}
+			p {
+     				font-size: 22px;
+   			}
+			ul {
+				text-align: left;
+				font-size: 22px;
+			}
+			ol{
+				text-align: left;
+				font-size: 22px;
+			}
+ 		</style>
+	</head>
+	<body>
+		<h1>Front Bird</h1>
+		<img src="https://i.pinimg.com/originals/6a/17/c3/6a17c3bc2724117f8764e07d79260e31.jpg">
+		<h2></h2>
+		<p>This is the best pose to learn first!</p>
+        <h2>Step by Step </h2>
+            <ol>
+                <li>The flyer begins facing the base at the back of the mat</li>
+                <li>The base places their feet on the flyer’s hips. *If the base has very tight hamstrings, they can place a blanket or bolster under their hips to give them more range of motion during your practice</li>
+                <li>The flyer connects hands with the base and leans slightly forward to transfer their weight onto the base’s feet</li>
+                <li>Be sure the flyer keeps their entire body fully engaged</li>
+                <li>To come out of Front Bird Pose: the base slowly bends their knees to allow the flyer’s feet to connect with the mat</li>
+            </ol>
+        <h2>Benefits </h2>
+            <ul> 
+                <li>Learning Balance and alignment</li>
+                <li>Flyer: full body strength</li>
+                <li>Base good hamstring stretch </li>
+            </ul>
+        <h2>Contraindications </h2>
+            <p>None</p>
+	</body>
+</html>
