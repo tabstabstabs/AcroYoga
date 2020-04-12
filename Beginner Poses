@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Beginner Acro</title>
+		<style>
+   			body {
+				text-align: center;
+				background: url("https://image.freepik.com/free-vector/blurred-sunrise-background_1107-116.jpg");
+     				background-size: cover;
+     				background-position: center;
+     				color: white;
+     				font-family: helvetica;
+    			}
+			p {
+     				font-size: 22px;
+   			}
+			ul {
+				text-align: left;
+				font-size: 22px;
+			}
+ 		</style>
+	</head>
+	<body>
+		<h1>AcroYoga for Beginners</h1>
+		<h2>Learning the Basics</h2>
+		<ul style="list-style-type:none;">
+ 			<li><a href="https://learnacro.000webhostapp.com/BeginnerPoses/Front%20Bird">
+         <img alt="Front Bird" src="https://i.pinimg.com/originals/6a/17/c3/6a17c3bc2724117f8764e07d79260e31.jpg"></a></li>
+			<li>Side Star</li>
+			<li>Bat Straddle</li>
+			<li>Reverse Bird</li>
+		</ul>
+	</body>
+</html>
